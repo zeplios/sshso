@@ -2,6 +2,8 @@
 
 base demo for SpringMVC+Spring+Hibernate+SpringSecurity+SpringOauth2
 
+contact me : zhfchdev@gmail.com
+
 * demo4springmvc : 
 
     only contain SpringMVC, the illustration is in my blog "[JavaEE-Springmvc搭建方法及example](http://blog.yxbilu.com/blog/r/24.html)".
